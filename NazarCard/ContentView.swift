@@ -31,7 +31,7 @@ struct ContentView: View {
 					.foregroundColor(.white)
 				InfoView(text: "+380 12 345 67 89", imageName: "phone.fill", imageColor: .yellow)
 				InfoView(text: "hworker98@gmail.com", imageName: "envelope.fill", imageColor: .yellow)
-				InfoView(text: "github.com/MushroomMSTR", imageName: "rectangle.stack.badge.person.crop.fill", imageColor: .yellow)
+				InfoView(text: "github.com/NazarStf", imageName: "rectangle.stack.badge.person.crop.fill", imageColor: .yellow)
 			}
         }
     }
